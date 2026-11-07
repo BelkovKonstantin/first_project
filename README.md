@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 # Название проекта
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -39,7 +40,9 @@
 - ✅ Функция 2 — краткое описание
 - ✅ Функция 3 — краткое описание
 
-## 📦 Установка
+## 📦 Установка  
+
+<a href="readme-top">back to top</a>  
 
 ### Требования
 
@@ -47,6 +50,9 @@
 - Node.js >= 18 (если нужно)
 
 ### Шаги
+
+<a href="readme-top">back to top</a>  
+
 
 ```bash
 # Клонировать репозиторий
@@ -63,3 +69,13 @@ pip install -r requirements.txt
 
 # Настроить переменные окружения
 cp .env.example .env
+```
+
+<a href="readme-top">back to top</a>  
+
+> "Сегодня в завтрашний день не все могут смотреть, точнее смотреть могут не только лишь все, но не каждый может это делать."
+Простая ссылка <https://github.com/BelkovKonstantin/>  
+Особая ссылка [Что за тигр этот лев](https://github.com/BelkovKonstantin/)  
+Ультра особа ссылка [Что за тигр этот лев](https://github.com/BelkovKonstantin/ "Не ну вы гляньте шо за красапета")
+
+<a href="readme-top">back to top</a>  
